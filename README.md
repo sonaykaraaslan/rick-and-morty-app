@@ -26,8 +26,8 @@ This project creates an interactive table where users can explore characters fro
 
 ## Screenshots 📸
 
-(rick-and-morty-app/images/ricks1.jpg)
-(rick-and-morty-app/images/ricks2.jpg)
+![Rick](rick-and-morty-app/images/ricks1.jpg)
+![Rick](rick-and-morty-app/images/ricks2.jpg)
 
 ## License 📄  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
