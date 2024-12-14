@@ -18,14 +18,15 @@ This project creates an interactive table where users can explore characters fro
 - Sort the table by name or status. 🔀  
 - Click on any character to view more detailed information about them. 👁️
 
+## Screenshots 📸
+
+![Rick](rick-and-morty-app/images/ricks1.jpg)
+![Rick](rick-and-morty-app/images/ricks2.jpg)
+
+
 ## Technical Details 🛠️  
 - **Frontend Framework**: React  
 - **State Management**: React State  
 - **CSS Framework**: Tailwind CSS  
 - **API**: [Rick and Morty API](https://rickandmortyapi.com/)
-
-## Screenshots 📸
-
-![Rick](rick-and-morty-app/images/ricks1.jpg)
-![Rick](rick-and-morty-app/images/ricks2.jpg)
 
