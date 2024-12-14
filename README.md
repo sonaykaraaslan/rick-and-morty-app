@@ -1,4 +1,4 @@
-# Rick and Morty API Table 🌍📊
+# Rick and Morty API Table 🌍📊✨
 
 Welcome to the Rick and Morty API Table project! This web application allows you to interact with the official Rick and Morty API, offering a user-friendly interface to filter, sort, and paginate the characters from the show. 🚀
 
@@ -29,5 +29,3 @@ This project creates an interactive table where users can explore characters fro
 ![Rick](rick-and-morty-app/images/ricks1.jpg)
 ![Rick](rick-and-morty-app/images/ricks2.jpg)
 
-## License 📄  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
